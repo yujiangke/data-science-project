@@ -1,0 +1,10 @@
+{
+  "publisher": "DSEC, distributed by MGTO Tourism Statistics",
+  "url": "https://dataplus.macaotourism.gov.mo/",
+  "coverage": "2023-01 through 2025-12",
+  "local_export_record_date": "2026-10-05 (from existing Practice07 documentation)",
+  "sha256": {
+    "visitors.csv": "ce763a56bde1c7409adcb76c910993af20c15d5801a5e693cad74c0e12e269ff",
+    "hotel.csv": "553173b981614eaac4fa02cc4df34dd15e8a43c6827e41b632ed734a5138700b"
+  }
+}
