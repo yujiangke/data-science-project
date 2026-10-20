@@ -34,6 +34,3 @@ The 2025 totals reconcile with [DSEC's release](https://www.gov.mo/en/news/39229
 
 ## Limitations and next steps
 Co-movement does not demonstrate causation. Hotel room supply, prices, market mix and a pre-pandemic baseline are missing. The observed occupancy rates cannot establish a capacity ceiling. Add these variables and investigate seasonality next. Raw data require manual retrieval under the source's terms, so reproduction has that external dependency.
-
-## AI declaration
-OpenAI Codex (GPT-6 family) assisted with analysis code, validation, visualizations and documentation. This repository does not claim classmate feedback or completed peer review.
